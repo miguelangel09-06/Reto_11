@@ -17,3 +17,6 @@
 -islower= Devuelve True si todas las letras son minúsculas
 
 -isupper= Devuelve True si todas las letras son mayúsculas.
+
+
+#### El punto 2 esta en el archivo adjunto .ipynb
